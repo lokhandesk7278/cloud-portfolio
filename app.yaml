@@ -1,0 +1,6 @@
+runtime: python39
+
+handlers:
+- url: /
+  static_files: cc2.html
+  upload: cc2.html
